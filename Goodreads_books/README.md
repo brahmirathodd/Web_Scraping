@@ -26,12 +26,14 @@ Usage
 
 Scrape Data:
 Run the goodreads_best_books_scraper.ipynb notebook to scrape data from the Goodreads Choice Awards page and save it to a CSV file.
+
 Clean Data:
 Use the cleaned_books.ipynb notebook for cleaning and processing the scraped book data.
+
 Generate Visualizations:
 After cleaning the data, run the visualization code in the visualize.py script (if applicable) to create visualizations, including a word cloud of book titles.
-Visualization
 
+Visualization
 The generated word cloud will be saved as a PNG image (word_cloud_book_titles.png) in the current directory. You can modify the parameters in the visualize.py file to customize the appearance of the word cloud.
 
 Project Files
